@@ -1,1 +1,1 @@
-# Bank_Customer_Churn_PredictionBank_Customer_Churn_Prediction
+# Bank_Customer_Churn_Prediction
